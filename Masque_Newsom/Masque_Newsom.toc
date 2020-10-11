@@ -1,0 +1,9 @@
+﻿## Interface: 90001
+## Title: Masque |cff267EFFNewsom|r
+## Author: Leo Bolin
+## Version: 9.0.1
+## DefaultState: enabled
+## Dependencies: Masque
+## X-Copyright: This addon is released into the Public Domain and may be modified and redistributed in any way.
+
+Masque_Newsom.lua
