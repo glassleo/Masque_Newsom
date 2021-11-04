@@ -1,7 +1,7 @@
-﻿## Interface: 90100
+﻿## Interface: 90105
 ## Title: Masque |cfff48cbaNewsom|r
 ## Author: Leo Bolin
-## Version: 9.1.0
+## Version: 9.1.5
 ## DefaultState: enabled
 ## Dependencies: Masque
 ## OptionalDeps: XLoot
