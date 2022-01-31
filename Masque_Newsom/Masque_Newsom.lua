@@ -9,13 +9,13 @@ local MSQ = LibStub("Masque", true)
 
 if not MSQ then return end
 
-MSQ:AddSkin("Newsom",{
+MSQ:AddSkin("Newsom", {
 
 	Author = "Leo Bolin",
-	Description = "Simple and sleek.\n\nOutline version recommended for bag buttons and debuffs.\nRecommended gloss: 70%.",
+	Description = "Simple and sleek.\n\nOutline version recommended for bag buttons and debuffs.\nRecommended gloss color: white with 70% alpha.",
 	Websites = { "https://www.wowinterface.com/downloads/info21347-MasqueNewsom.html", },
-	Version = "8.2.7",
-	Masque_Version = 80200,
+	Version = "9.0.5",
+	Masque_Version = 90002,
 	Shape = "Square",
 	Group = "Newsom",
 	Title = "Original",
@@ -131,13 +131,13 @@ MSQ:AddSkin("Newsom",{
 
 
 
-MSQ:AddSkin("Newsom Outline",{
+MSQ:AddSkin("Newsom Outline", {
 
 	Author = "Leo Bolin",
-	Description = "Simple and sleek.\n\nOutline version recommended for bag buttons and debuffs.\nRecommended gloss: 70%.",
+	Description = "Simple and sleek.\n\nOutline version recommended for bag buttons and debuffs.\nRecommended gloss: white with 70% alpha.",
 	Websites = { "https://www.wowinterface.com/downloads/info21347-MasqueNewsom.html", },
-	Version = "8.2.7",
-	Masque_Version = 80200,
+	Version = "9.0.5",
+	Masque_Version = 90002,
 	Shape = "Square",
 	Group = "Newsom",
 	Title = "Outline",
@@ -250,3 +250,21 @@ MSQ:AddSkin("Newsom Outline",{
 	-- Skin data end.
 
 },true)
+
+
+if not XLoot then return end
+
+XLoot:RegisterSkin('Newsom', {
+	name = '|cfff48cbaNewsom|r',
+	row_spacing = 1,
+	texture = [[Interface\AddOns\Masque_Newsom\images\newsom\Normal]],
+	bar_texture = [[Interface\AddOns\Masque_Newsom\Textures\Statusbar_Tall]],
+	size = 16,
+	padding = 7,
+	highlight = {
+		texture = [[Interface\AddOns\Masque_Newsom\images\newsom\Equipped2]],
+		size = 16,
+		padding = 6,
+		color_mod = .3,
+	},
+})
