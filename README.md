@@ -2,7 +2,7 @@
 
 A simple and sleek skin for [Masque](https://github.com/SFX-WoW/Masque).
 
-Set Gloss to 70% in Masque's settings if you want the same effect as in the screenshot to the right.
+Set Gloss to white with 70% alpha in Masque's settings if you want the same effect as in the screenshot.
 
 Contains two Masque skins:
 - **Newsom** is recommended for Action Bar Buttons
