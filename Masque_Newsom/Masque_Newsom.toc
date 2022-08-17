@@ -1,7 +1,7 @@
-﻿## Interface: 90205
+﻿## Interface: 90207
 ## Title: Masque: |cfff48cbaNewsom|r
 ## Author: Leo (Newsom)
-## Version: 9.2.5
+## Version: 9.2.7
 ## DefaultState: enabled
 ## Dependencies: Masque
 ## OptionalDeps: XLoot
