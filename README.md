@@ -8,4 +8,6 @@ Contains two Masque skins:
 - **Newsom** is recommended for Action Bar Buttons
 - **Newsom Outline** is recommended for Buffs, Debuffs and Bag Buttons
 
+Also contains a matching skin for [XLoot](https://github.com/Xuerian/XLoot)
+
 ![Preview image](https://cdn-wow.mmoui.com/preview/pvw56604.png)
