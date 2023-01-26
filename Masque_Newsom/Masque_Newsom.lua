@@ -90,7 +90,7 @@ MSQ:AddSkin("Newsom", {
 		Height = 10,
 		Point = "BOTTOMRIGHT",
 		RelPoint = "BOTTOMRIGHT",
-		OffsetX = -2,
+		OffsetX = -3,
 		OffsetY = 5,
 	},
 	HotKey = {
@@ -101,7 +101,7 @@ MSQ:AddSkin("Newsom", {
 		Height = 10,
 		Point = "TOPRIGHT",
 		RelPoint = "TOPRIGHT",
-		OffsetX = -2,
+		OffsetX = -3,
 		OffsetY = -4,
 	},
 	Duration = {
