@@ -1,10 +1,11 @@
-﻿## Interface: 100007
+﻿## Interface: 100100
 ## Title: Masque: |cfff48cbaNewsom|r
 ## Author: Leo (Newsom)
-## Version: 10.0.7
+## Version: 10.1
 ## DefaultState: enabled
 ## Dependencies: Masque
 ## OptionalDeps: XLoot
 ## X-Copyright: This addon is released into the Public Domain and may be modified and redistributed in any way.
+## IconTexture: 4200124
 
 Masque_Newsom.lua
