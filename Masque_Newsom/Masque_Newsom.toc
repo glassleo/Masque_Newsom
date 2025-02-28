@@ -1,7 +1,7 @@
-﻿## Interface: 110002
+﻿## Interface: 110100
 ## Title: Masque: |cfff48cbaNewsom|r
-## Author: Leo (Newsom)
-## Version: 11.0.2
+## Author: Leo
+## Version: 11.1
 ## DefaultState: enabled
 ## Dependencies: Masque
 ## OptionalDeps: XLoot
